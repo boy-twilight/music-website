@@ -1,0 +1,1 @@
+import{d as e,o as s,a as o,b as c,H as _,_ as a}from"./index-424b24d2.js";const t=""+new URL("暂无搜索结果-08bd1716.svg",import.meta.url).href,n={class:"no-search"},r=["src"],d=e({__name:"NoSearch",setup(p){return(l,h)=>(s(),o("div",n,[c("img",{src:_(t),alt:""},null,8,r)]))}});const m=a(d,[["__scopeId","data-v-e2d490c4"]]);export{m as N};
